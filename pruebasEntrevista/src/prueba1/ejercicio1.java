@@ -5,7 +5,7 @@ package prueba1;
 //en el orden en que aparecene nel arreglo.
 public class ejercicio1 {
 
-    static int[] myArray = {1, 3, 4, 5, 6, 7, 2, 8, 9};
+    static int[] myArray = {1, 3, 4, 5, 5,6, 7, 2, 8, 9,5};
 
     public static void main(String[] args) {
         int count = 1;
